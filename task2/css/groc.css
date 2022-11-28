@@ -1,0 +1,74 @@
+.nav
+{
+    height:40px;
+    background-color:#84c639;
+    
+}
+.nav span
+{
+    font-weight:600;
+    margin-left:5rem;
+    font-size:16px;
+    color:white;
+    margin-top:5px;
+}
+.nav1
+{
+    height:35px;
+    border:2px solid green;
+    margin-top:2px;
+    
+    
+    
+}
+.nav1 span
+{
+    
+   
+    font-weight:600;
+    font-size:13px;
+    color:#dcd2b9;
+    margin-left:-.5rem;
+    
+}
+.nav3
+{
+    height:40px;
+    background-color:red;
+    
+}
+.nav3 p
+{
+    
+    font-weight:400;
+    
+    font-size:17px;
+    color:white;
+    margin-top:5px;
+    
+}
+.img
+{
+    height:450px;
+
+}
+.image3
+{
+    height:250px;
+    margin-left:10px;
+	box-shadow:5px 5px 5px black;
+}
+.image6
+{
+    height:365px;
+    margin-top:10px;
+	box-shadow:5px 5px 5px black;
+    
+}
+
+
+.outer
+{
+   
+    background-color: #dcd2b9;
+}
